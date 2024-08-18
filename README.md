@@ -9,7 +9,6 @@ Welcome to my Java Programming Internship projects, completed as part of the Cod
 - [Task 3: Student Grade Calculator (GUI)](#task-3-student-grade-calculator-gui)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [How to Run the Projects](#how-to-run-the-projects)
 
 ## Introduction
 
