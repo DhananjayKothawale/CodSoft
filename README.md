@@ -10,8 +10,6 @@ Welcome to my Java Programming Internship projects, completed as part of the Cod
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [How to Run the Projects](#how-to-run-the-projects)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -65,8 +63,3 @@ The Student Grade Calculator is a graphical user interface (GUI) application tha
 - **Java Swing**: Used in the Student Grade Calculator project to create a GUI.
 - **Object-Oriented Programming (OOP)**: Applied across all projects.
 
-## How to Run the Projects
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/CodSoft-Java-Internship.git
